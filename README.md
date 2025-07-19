@@ -8,8 +8,7 @@ Estudante de Engenharia de Software (8º semestre) na Universidade de Brasília 
 
 - 🎓 Graduando em Engenharia de Software - UnB (Previsão: 2026)
 - 🏢 Estagiário Full Stack na **RegMetrics**
-- 👨‍💻 Contribuidor no projeto open source [MEPA](https://github.com/MepaProject/mepa)
-- 🌐 Interesses: Desenvolvimento Web, APIs, DevOps, Dados, Software Livre
+- 🌐 Interesses: Desenvolvimento Web, DevOps, Dados, Embarcados
 
 ---
 
@@ -22,8 +21,9 @@ Estudante de Engenharia de Software (8º semestre) na Universidade de Brasília 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apache-airflow)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
 
 ---
 
@@ -45,14 +45,16 @@ Estudante de Engenharia de Software (8º semestre) na Universidade de Brasília 
 
 ## 🌟 &nbsp;Projetos em destaque
 
-- [MEPA](https://github.com/MepaProject/mepa) — Contribuições em cadastro e gerenciamento de usuários (Django + React)
+- [MEPA](https://gitlab.com/lappis-unb/projetos-energia/mec-energia) — Contribuições em cadastro e gerenciamento de usuários (Django + React)
+- [Portugol-C](https://github.com/JohnnyLopess/Portugol-C) — Compilador desenvolvido em C, Flex e Bison, capaz de traduzir código em Portugol para C, com suporte a análise léxica, sintática e semântica
 - [Outros projetos pessoais](https://github.com/JohnnyLopess?tab=repositories)
+
 
 ---
 
 ## 📫 &nbsp;Contato
 
 - Email: [johnnypontelopes@gmail.com](mailto:johnnypontelopes@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/johnny-da-ponte-lopes-721885304)
+- [LinkedIn](https://www.linkedin.com/in/johnny-da-ponte-lopes-721885304/)
 - [GitHub](https://github.com/JohnnyLopess)
 
