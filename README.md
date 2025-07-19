@@ -39,7 +39,7 @@ Estudante de Engenharia de Software (8º semestre) na Universidade de Brasília 
 
 ## 🏆 &nbsp;Nota do Repositório
 
-[![Repo Rater](https://github-readme-repo-rater.vercel.app/api/rate?username=JohnnyLopess&repo=JohnnyLopess&theme=radical)](https://github.com/JohnnyLopess/JohnnyLopess)
+[![Repo Rater](https://github-readme-repo-rater.vercel.app/api/rate?username=JohnnyLopess&repo=Portugol-C&theme=radical)](https://github.com/JohnnyLopess/Portugol-C)
 
 ---
 
