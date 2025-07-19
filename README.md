@@ -7,7 +7,7 @@ Estudante de Engenharia de Software (8º semestre) na Universidade de Brasília 
 ## 🚀 &nbsp;Sobre mim
 
 - 🎓 Graduando em Engenharia de Software - UnB (Previsão: 2026)
-- 🏢 Estagiário Full Stack na **RegMetrics**
+- 🏢 Estágio concluído como Full Stack Developer na **RegMetrics**
 - 🌐 Interesses: Desenvolvimento Web, DevOps, Dados, Embarcados
 
 ---
@@ -34,12 +34,6 @@ Estudante de Engenharia de Software (8º semestre) na Universidade de Brasília 
   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=JohnnyLopess&theme=radical"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnnyLopess&layout=compact&langs_count=7&theme=radical"/>
 </p>
-
----
-
-## 🏆 &nbsp;Nota do Repositório
-
-[![Repo Rater](https://github-readme-repo-rater.vercel.app/api/rate?username=JohnnyLopess&repo=Portugol-C&theme=radical)](https://github.com/JohnnyLopess/Portugol-C)
 
 ---
 
