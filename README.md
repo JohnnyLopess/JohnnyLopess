@@ -6,7 +6,8 @@ Estudante de Engenharia de Software (8º semestre) na Universidade de Brasília 
 
 ## 🚀 &nbsp;Sobre mim
 
-- 🎓 Graduando em Engenharia de Software - UnB (Previsão: 2026)
+- 🎓 Bacharelado em Engenharia de Software - UNB
+- 🏢 Desenvolvedor Júnior I - **Instabuy**
 - 🏢 Estágio concluído como Full Stack Developer na **RegMetrics**
 - 🌐 Interesses: Desenvolvimento Web, DevOps, Dados, Embarcados
 
